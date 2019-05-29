@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "sew",
+  "version": "${version}",
+
+  "name": "SewAPI",
+  "description": "An animation api for modders.",
+  "authors": [
+    "Mr. Vintage"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/sew/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.mrvintage.sew.SewMain"
+    ]
+  },
+  "mixins": [
+
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}
