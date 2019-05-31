@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "me.mrvintage.sew.SewMain"
+    ],
+    "client": [
+      "me.mrvintage.sew.SewMain"
     ]
   },
   "mixins": [

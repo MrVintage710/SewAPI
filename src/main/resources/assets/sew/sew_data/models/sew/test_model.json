@@ -1,0 +1,19 @@
+{
+	"format_version": "1.10.0",
+	"geometry.tinkertable": {
+		"texturewidth": 16,
+		"textureheight": 16,
+		"visible_bounds_width": 1,
+		"visible_bounds_height": 1,
+		"visible_bounds_offset": [0, 0.5, 0],
+		"bones": [
+			{
+				"name": "main",
+				"pivot": [0, 0, 0],
+				"cubes": [
+					{"origin": [-1, 0, -1], "size": [2, 1, 2], "uv": [0, 0]}
+				]
+			}
+		]
+	}
+}
